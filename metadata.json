@@ -1,0 +1,5 @@
+{
+  "name": "ClienteGestor",
+  "description": "Sistema de gestão de clientes com Dashboard, Relatórios e Cadastro integrado ao Firebase.",
+  "requestFramePermissions": []
+}
